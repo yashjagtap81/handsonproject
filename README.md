@@ -1,4 +1,4 @@
-Convolutional Neural Network for Gun Detection in Random Images
+Convolutional Neural Network for ShotGun Detection.
 
 
 This repository contains code for a Convolutional Neural Network (CNN) model designed to detect guns in random images. The model is trained using deep learning techniques and leverages the power of CNNs to achieve accurate gun recognition.
